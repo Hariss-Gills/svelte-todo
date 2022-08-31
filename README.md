@@ -1,21 +1,3 @@
-# Source code for Svelte Tutorials at MDN Web docs
-
-Source code of the To-Do list app for the Svelte tutorials at [Understanding client-side JavaScript frameworks](Understanding client-side JavaScript frameworks) series at MDN Web docs.
-
-## 02. Starting our To-Do list app
-
-In this section we will first have a look at the desired functionality of our app, then we'll create our `Todos.svelte` component and put static markup and styles in place, leaving everything ready to start developing our To-Do list app features, which we'll go on to in the next article. 
-
-You can see the complete content of this article [here](../02-starting-our-todo-app/Svelte_starting_our_todo_app.md) or at [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_todo_list_beginning).
-
-The source code to follow this article is in the `02-starting-our-todo-app` folder, you can download it with the `npx degit opensas/mdn-svelte-tutorial/02-starting-our-todo-app svelte-todo` command. You can also play with an online version using this Svelte [REPL](https://svelte.dev/repl/b7b831ea3a354d3789cefbc31e2ca495?version=3.23.2).
-
----
-
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
-
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
